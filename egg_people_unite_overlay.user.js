@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         April Fools r/RocketLeague Allies
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.2
 // @description  Keep the canvas beautiful!
 // @author       Adapted by u/kylomorales for r/RocketLeague, Original author oralekin from osu! /r/osuplace
 // @match        https://hot-potato.reddit.com/embed*
